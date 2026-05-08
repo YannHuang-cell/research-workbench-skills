@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research KB Builder"
+  short_description: "把论文、代码、项目和想法沉淀成低负担的 Obsidian 第二大脑"
+  default_prompt: "Use $research-kb-builder to turn what I just learned into a clean Obsidian note with the right note type, lightweight properties, and useful links."
