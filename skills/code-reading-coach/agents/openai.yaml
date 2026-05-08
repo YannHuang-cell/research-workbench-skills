@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Reading Coach"
+  short_description: "按你的代码水平带读脚本、notebook 和研究代码仓库"
+  default_prompt: "Use $code-reading-coach to help me understand this code from the entry point and data flow, matched to my current level, and give me one small practice edit if useful."
