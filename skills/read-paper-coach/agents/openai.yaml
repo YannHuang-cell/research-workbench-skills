@@ -1,0 +1,4 @@
+interface:
+  display_name: "Read Paper Coach"
+  short_description: "中文分模式带读论文并生成结构化理解输出"
+  default_prompt: "Use $read-paper-coach to skim or deeply read one paper in Chinese by knowledge point, keep answers evidence-aware, and produce an Obsidian-ready note when useful."
