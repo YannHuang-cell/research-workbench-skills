@@ -1,0 +1,4 @@
+interface:
+  display_name: "Coding Growth Coach"
+  short_description: "面向研究编程与长期 CS 基础的分阶段 coding 成长路线"
+  default_prompt: "Use $coding-growth-coach to give me a staged plan that improves my research coding now while also building deeper CS foundations over time."
