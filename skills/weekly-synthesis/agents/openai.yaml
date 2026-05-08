@@ -1,0 +1,4 @@
+interface:
+  display_name: "Weekly Synthesis"
+  short_description: "把一周的论文、代码、成长和想法压缩成高信号研究复盘"
+  default_prompt: "Use $weekly-synthesis to review what I read, coded, and learned this week, identify the strongest insights and gaps, and give me the most important next actions."
