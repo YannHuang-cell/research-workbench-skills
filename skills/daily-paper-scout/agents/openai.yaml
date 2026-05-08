@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daily Paper Scout"
+  short_description: "每天按主题筛出候选文献清单，保留人工最终筛选"
+  default_prompt: "Use $daily-paper-scout to find today's candidate papers for my research themes, rank them by authority, frontier value, and fit, and give me a shortlist without writing anything into Zotero."
